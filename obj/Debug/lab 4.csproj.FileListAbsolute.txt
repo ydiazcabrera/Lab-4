@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\lab 4\lab 4\obj\Debug\lab 4.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\lab 4\lab 4\obj\Debug\lab 4.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe.config
+C:\Users\yendi\source\repos\lab 4\lab 4\bin\Debug\lab 4.exe
+C:\Users\yendi\source\repos\lab 4\lab 4\bin\Debug\lab 4.pdb
+C:\Users\yendi\source\repos\lab 4\lab 4\obj\Debug\lab 4.exe
+C:\Users\yendi\source\repos\lab 4\lab 4\obj\Debug\lab 4.pdb
