@@ -15,9 +15,8 @@ namespace lab_4
 
             while (true)
             {
-                int input;
-
-                input = CollectInput();
+               
+                int input = CollectInput();
                 DisplayTable(input);
 
                 Console.WriteLine("Do you wish to conitue?  (Y/N)");
@@ -32,7 +31,9 @@ namespace lab_4
                 {
                     break;
                 }
+
             }
+            Console.WriteLine("Have a nice day!");
         }
 
         public static int CollectInput()
@@ -65,11 +66,12 @@ namespace lab_4
         public static void DisplayTable(int input)
         {
 
-            Console.WriteLine("Number    Square    Cubed  \n=======   =======   =======\n");
+            Console.WriteLine("Number    Square    Cubed  " +
+                           "\n=======   =======   =======\n");
 
-            for (int i = 0; i < input; i++)
+            for (int i = 1; i <= input; i++)
             {
-                Console.WriteLine($"{i + 1}          {SquareInput(i+1)}         {CubeInput(i+1)}");
+                Console.WriteLine($"{i}          {SquareInput(i)}         {CubeInput(i)}");
             }
             
                    
